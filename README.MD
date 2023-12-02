@@ -1,0 +1,2 @@
+## Streandiabgtiktok
+การทำงานสุ่มดวง
