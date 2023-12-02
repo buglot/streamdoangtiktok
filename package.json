@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/buglot/streamdoangtiktok/issues"
   },
-  "homepage": "https://github.com/buglot/streamdoangtiktok#readme"
+  "homepage": "https://github.com/buglot/streamdoangtiktok#readme",
+  "dependencies": {
+    "tiktok-live-connector": "^1.0.5"
+  }
 }
